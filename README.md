@@ -30,8 +30,7 @@
 #### Desktop Application Development 🖥️
 
 >![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
->![JAVA]!(https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
->![JASPERSOFT]
+>![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 >![ECLIPSE](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 >![NETBEANS IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
